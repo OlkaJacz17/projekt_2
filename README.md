@@ -28,8 +28,6 @@ _możliwości wyboru punktów_
 Zgodnie z powyższymi informacjami ∆h możemy policzyć __TYLKO__ zaznaczając dwa punkty, jeśli tego nie zrobimy wyskoczy nam błąd "Zbyt mała liczba zaznaczonych punktów" . Błąd możemy zniwelować jedynie wybierając __DWA__
 dowolne punkty. 
 
-# Przykładowe użycie # 
-Wtyczka działać będzie na przykładowym pliku "agencje zatrudnienia.shx" ze względu na odpowiednie atrybuty. 
 
 
 
