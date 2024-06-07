@@ -1,11 +1,11 @@
 # PROJEKT 2
 Wtyczka do QGIS 
-#__zastosowanie__
+# zastosowanie #
 Wtyczka służy do liczenia różnic wysokości dwóch wybranych punktów. 
 
 Wtyczka oblicza pole powierzchni, którego wierzchołkami są wybrane punkty.
 
-#__sposób użycia__
+# sposób użycia #
 Należy pobrać wtyczkę do folderu, w którym pobrane są już wtyczki do programu QGIS oraz załadować ją w programie. 
 
 Następnie należy otworzyć mapę, której wartswy zawierać będą potrzebne atrybuty. Po uruchomieniu wtyczki otrzymamy komunikat "wybierz obiekty" i wyświetli nam się lista punktów z warstwy.
