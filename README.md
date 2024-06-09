@@ -3,17 +3,17 @@ Wtyczka do QGIS
 # ZASTOSOWANIE #
 _wytyczne_
 
-Żeby wtyczka zadziałała poprawnie należy mieć zainstalowany program QGIS.
+Żeby wtyczka zadziałała poprawnie należy mieć zainstalowany program QGIS lub QGIS3
 
 _wykorzystanie_
 
-Wtyczka służy do liczenia różnic wysokości dwóch wybranych punktów. 
+Wtyczka służy do liczenia różnic wysokości pomiędzy dwoma wybranymi punktami. 
 
-Wtyczka oblicza pole powierzchni, którego wierzchołkami są wybrane punkty.
+Wtyczka oblicza pole powierzchni figury (poligonu), którego wierzchołkami są wybrane punkty.
 
 Jednostką otrzymanych wyników jest odpowiednio:
-- do róznic wysokości metr
-- do pola poligonu metr kwadratowy
+- do róznic wysokości - metr
+- do pola poligonu - metr kwadratowy
 
 # SPOSÓB UŻYCIA #
 Należy pobrać wtyczkę do folderu, w którym pobrane są już wtyczki do programu QGIS oraz załadować ją w programie. 
